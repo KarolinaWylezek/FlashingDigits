@@ -9,7 +9,7 @@ entity counter is
      );
 end counter;
 
-architecture Behavioral of counter is
+architecture behaviour of counter is
 signal counter: std_logic_vector(3 downto 0):="0000";
 begin
 -- up counter
@@ -17,12 +17,12 @@ process(clk,reset)
 begin
 if(rising_edge(clk)) then
     if(reset='1') then
-         counter <= x"0";
+         counter <= "0000";
     else
-        counter <= counter + x"1";
+        counter <= counter + "0001";
     end if;
  end if;
 end process;
  count <= counter;
 
-end Behavioral;
+end behaviour;
