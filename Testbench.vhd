@@ -1,9 +1,6 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
--- FPGA projects using Verilog code VHDL code
--- fpga4student.com: FPGA projects, Verilog projects, VHDL projects
--- VHDL project: VHDL code for counters with testbench  
--- VHDL project: Testbench VHDL code for up counter
+
 entity testbench is
 end testbench;
 

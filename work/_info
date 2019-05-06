@@ -15,19 +15,19 @@ Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z5 dD:/Dokumenty/DSE/git/FD
-Z6 8D:\Dokumenty\DSE\git\FD\Counter.vhd
-Z7 FD:\Dokumenty\DSE\git\FD\Counter.vhd
+Z6 8D:/Dokumenty/DSE/git/FD/Counter.vhd
+Z7 FD:/Dokumenty/DSE/git/FD/Counter.vhd
 l0
 L5
 VgldES?2RQN]laDJNzFN5:3
 !s100 LTdCCR<FgkLI_mWW@_znh3
 Z8 OV;C;10.5b;63
 32
-Z9 !s110 1557174605
+Z9 !s110 1557174827
 !i10b 1
-Z10 !s108 1557174605.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\Counter.vhd|
-Z12 !s107 D:\Dokumenty\DSE\git\FD\Counter.vhd|
+Z10 !s108 1557174827.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Counter.vhd|
+Z12 !s107 D:/Dokumenty/DSE/git/FD/Counter.vhd|
 !i113 1
 Z13 o-work work -2002 -explicit
 Z14 tExplicit 1 CvgOpt 0
@@ -63,22 +63,24 @@ Vg;Q56CzjT2@nkYCD=W:CN1
 !s100 X]4H^WbU_P2KZ=X[CEz@73
 R8
 32
-Z16 !s110 1557174472
+!s110 1557174472
 !i10b 1
-Z17 !s108 1557174472.000000
-R11
-R12
+!s108 1557174472.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\Counter.vhd|
+!s107 D:\Dokumenty\DSE\git\FD\Counter.vhd|
 !i113 1
 R13
 R14
 w1557174468
+FD:\Dokumenty\DSE\git\FD\Counter.vhd
+8D:\Dokumenty\DSE\git\FD\Counter.vhd
 Edecoder
-Z18 w1557174051
+Z16 w1557174051
 R3
 R4
 R5
-Z19 8D:/Dokumenty/DSE/git/FD/Decoder.vhd
-Z20 FD:/Dokumenty/DSE/git/FD/Decoder.vhd
+Z17 8D:/Dokumenty/DSE/git/FD/Decoder.vhd
+Z18 FD:/Dokumenty/DSE/git/FD/Decoder.vhd
 l0
 L4
 VWE2cjUG]Kf]YC><FV;>RZ2
@@ -88,49 +90,49 @@ R8
 R9
 !i10b 1
 R10
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Decoder.vhd|
-Z22 !s107 D:/Dokumenty/DSE/git/FD/Decoder.vhd|
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Decoder.vhd|
+Z20 !s107 D:/Dokumenty/DSE/git/FD/Decoder.vhd|
 !i113 1
 R13
 R14
 Abehavior
 R3
 R4
-Z23 DEx4 work 7 decoder 0 22 WE2cjUG]Kf]YC><FV;>RZ2
+Z21 DEx4 work 7 decoder 0 22 WE2cjUG]Kf]YC><FV;>RZ2
 l11
 L10
-Z24 VzC]JXTQnX@1J2UOKl_7Yc1
-Z25 !s100 >c;?4Z[G_fV0;ZId`jY]=0
+Z22 VzC]JXTQnX@1J2UOKl_7Yc1
+Z23 !s100 >c;?4Z[G_fV0;ZId`jY]=0
 R8
 32
 R9
 !i10b 1
 R10
-R21
-R22
+R19
+R20
 !i113 1
 R13
 R14
 Eflashingdigits
-Z26 w1557174041
+Z24 w1557174041
 R1
 R2
 R3
 R4
 R5
-Z27 8D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
-Z28 FD:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
+Z25 8D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
+Z26 FD:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
 l0
 L5
 VRU`ENn@lECc>:d4PCVYfe0
 !s100 F`BJ;AZ_=FdYUcVNLC2eK0
 R8
 32
-R9
+Z27 !s110 1557174826
 !i10b 1
-Z29 !s108 1557174604.000000
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
-Z31 !s107 D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
+Z28 !s108 1557174826.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
+Z30 !s107 D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
 !i113 1
 R13
 R14
@@ -146,89 +148,89 @@ V<j1`]V2E?><NP_J]TJIgj3
 !s100 H>Q=Z[j:43NiYn=dnEX5E1
 R8
 32
-R9
+R27
 !i10b 1
+R28
 R29
 R30
-R31
 !i113 1
 R13
 R14
 Etb_counters
-Z32 w1557174004
+Z31 w1557174628
 R3
 R4
 R5
-Z33 8D:/Dokumenty/DSE/git/FD/TestbenchCounter.vhd
-Z34 FD:/Dokumenty/DSE/git/FD/TestbenchCounter.vhd
+Z32 8D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
+Z33 FD:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
 l0
-L7
-VKi[Bk;K;Vg2;iCj`bFS<O2
-!s100 2ceSFYK1CaR8hSd8YCgEh0
+L4
+VZLIieZd<Xb8<8Wh^HhMPg3
+!s100 Z`=LhU6IFFkj;oo_UoRjo2
 R8
 32
 R9
 !i10b 1
 R10
-Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/TestbenchCounter.vhd|
-Z36 !s107 D:/Dokumenty/DSE/git/FD/TestbenchCounter.vhd|
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
+Z35 !s107 D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
 !i113 1
 R13
 R14
 Abehavioral
 R3
 R4
-DEx4 work 11 tb_counters 0 22 Ki[Bk;K;Vg2;iCj`bFS<O2
-l21
-L10
-V_W=mVdL2J[I:Izd<?]>RJ1
-!s100 VzmYbJm4Vl0zGk4VTX1893
+DEx4 work 11 tb_counters 0 22 ZLIieZd<Xb8<8Wh^HhMPg3
+l18
+L7
+VcH3><0jH3@6]bdPbHzDaA2
+!s100 kLGDNNQ;E;b68RYj7l[6[3
 R8
 32
 R9
 !i10b 1
 R10
+R34
 R35
-R36
 !i113 1
 R13
 R14
 Etestbench
-Z37 w1557174018
+Z36 w1557174817
 R3
 R4
 R5
-Z38 8D:/Dokumenty/DSE/git/FD/Testbench.vhd
-Z39 FD:/Dokumenty/DSE/git/FD/Testbench.vhd
+Z37 8D:\Dokumenty\DSE\git\FD\Testbench.vhd
+Z38 FD:\Dokumenty\DSE\git\FD\Testbench.vhd
 l0
-L7
-VT`;IgUW6Yok<<NdmNMQG80
-!s100 LL]ZzKh^RzB`QIgkS:g0i2
+L4
+VTz<lFEBj;MPEg:0H>b1Do1
+!s100 zV?DSKOdjRnaRgmTS>F@00
 R8
 32
 R9
 !i10b 1
 R10
-Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Testbench.vhd|
-Z41 !s107 D:/Dokumenty/DSE/git/FD/Testbench.vhd|
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\Testbench.vhd|
+Z40 !s107 D:\Dokumenty\DSE\git\FD\Testbench.vhd|
 !i113 1
 R13
 R14
 Abehaviour
 R3
 R4
-DEx4 work 9 testbench 0 22 T`;IgUW6Yok<<NdmNMQG80
-l22
-L10
-V6?e<eCzf9i^SV8z0hJQH52
-!s100 L5]h=UQaQlE^G6<[jWYdJ0
+DEx4 work 9 testbench 0 22 Tz<lFEBj;MPEg:0H>b1Do1
+l19
+L7
+V;2hQ6]m@<I>6^31>6dc192
+!s100 23:PJLza@mgBhLCkGTj8D1
 R8
 32
 R9
 !i10b 1
 R10
+R39
 R40
-R41
 !i113 1
 R13
 R14
