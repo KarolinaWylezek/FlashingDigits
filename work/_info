@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA_lite/18.1
 Ecounter
-Z0 w1557215441
+Z0 w1557256883
 Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
 Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
@@ -19,13 +19,13 @@ Z6 8D:\Dokumenty\DSE\git\FD\Counter.vhd
 Z7 FD:\Dokumenty\DSE\git\FD\Counter.vhd
 l0
 L5
-VgldES?2RQN]laDJNzFN5:3
-!s100 LTdCCR<FgkLI_mWW@_znh3
+VHDon1no>H2T=WWQ1:9edC3
+!s100 Sm>6FQ1:SWB>E?IQCBhbY3
 Z8 OV;C;10.5b;63
 32
-Z9 !s110 1557217577
+Z9 !s110 1557257068
 !i10b 1
-Z10 !s108 1557217577.000000
+Z10 !s108 1557257068.000000
 Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\Counter.vhd|
 Z12 !s107 D:\Dokumenty\DSE\git\FD\Counter.vhd|
 !i113 1
@@ -36,11 +36,11 @@ R1
 R2
 R3
 R4
-Z15 DEx4 work 7 counter 0 22 gldES?2RQN]laDJNzFN5:3
-l14
+DEx4 work 7 counter 0 22 HDon1no>H2T=WWQ1:9edC3
+l24
 L12
-VPmz?`58=iJo;elh]kd=Y]1
-!s100 jT:;2dl[ZU;l]eY^86n]N3
+VXN3zd<KKkLL[zR=Eo_1]_0
+!s100 8^oY4oa<YD9_Ak]P73@LK3
 R8
 32
 R9
@@ -56,7 +56,7 @@ R1
 R2
 R3
 R4
-R15
+DEx4 work 7 counter 0 22 gldES?2RQN]laDJNzFN5:3
 l14
 L12
 Vg;Q56CzjT2@nkYCD=W:CN1
@@ -72,54 +72,97 @@ R12
 R13
 R14
 w1557174468
-Edecoder
-Z16 w1557174051
+Ecounter2
+Z15 w1557257059
+R1
+R2
 R3
 R4
 R5
-Z17 8D:/Dokumenty/DSE/git/FD/Decoder.vhd
-Z18 FD:/Dokumenty/DSE/git/FD/Decoder.vhd
+Z16 8D:\Dokumenty\DSE\git\FD\counter2.vhd
+Z17 FD:\Dokumenty\DSE\git\FD\counter2.vhd
+l0
+L5
+V;QJ28=L>:Ohh?DTK;ajk?0
+!s100 g`i3FZ2m>]hSelY6`KOb:0
+R8
+32
+Z18 !s110 1557257069
+!i10b 1
+Z19 !s108 1557257069.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\counter2.vhd|
+Z21 !s107 D:\Dokumenty\DSE\git\FD\counter2.vhd|
+!i113 1
+R13
+R14
+Abehaviour
+R1
+R2
+R3
+R4
+DEx4 work 8 counter2 0 22 ;QJ28=L>:Ohh?DTK;ajk?0
+l14
+L12
+V249Jb7ZPo9WW0fj43DBH<1
+!s100 <S1T]8a]NHQi<0Uc`;92?3
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Edecoder
+Z22 w1557174051
+R3
+R4
+R5
+Z23 8D:/Dokumenty/DSE/git/FD/Decoder.vhd
+Z24 FD:/Dokumenty/DSE/git/FD/Decoder.vhd
 l0
 L4
 VWE2cjUG]Kf]YC><FV;>RZ2
 !s100 gn;OnARnC;hD=3SG2[^<n3
 R8
 32
-Z19 !s110 1557217578
+R18
 !i10b 1
-Z20 !s108 1557217578.000000
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Decoder.vhd|
-Z22 !s107 D:/Dokumenty/DSE/git/FD/Decoder.vhd|
+R19
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Decoder.vhd|
+Z26 !s107 D:/Dokumenty/DSE/git/FD/Decoder.vhd|
 !i113 1
 R13
 R14
 Abehavior
 R3
 R4
-Z23 DEx4 work 7 decoder 0 22 WE2cjUG]Kf]YC><FV;>RZ2
+DEx4 work 7 decoder 0 22 WE2cjUG]Kf]YC><FV;>RZ2
 l11
 L10
-Z24 VzC]JXTQnX@1J2UOKl_7Yc1
-Z25 !s100 >c;?4Z[G_fV0;ZId`jY]=0
+VzC]JXTQnX@1J2UOKl_7Yc1
+!s100 >c;?4Z[G_fV0;ZId`jY]=0
 R8
 32
-R19
+R18
 !i10b 1
-R20
-R21
-R22
+R19
+R25
+R26
 !i113 1
 R13
 R14
 Eflashingdigits
-Z26 w1557174041
+Z27 w1557252119
 R1
 R2
 R3
 R4
 R5
-Z27 8D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
-Z28 FD:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
+Z28 8D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
+Z29 FD:/Dokumenty/DSE/git/FD/FleshingDigits.vhd
 l0
 L5
 VRU`ENn@lECc>:d4PCVYfe0
@@ -129,8 +172,8 @@ R8
 R9
 !i10b 1
 R10
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
-Z30 !s107 D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
+Z31 !s107 D:/Dokumenty/DSE/git/FD/FleshingDigits.vhd|
 !i113 1
 R13
 R14
@@ -149,29 +192,29 @@ R8
 R9
 !i10b 1
 R10
-R29
 R30
+R31
 !i113 1
 R13
 R14
 Etb_counter
-Z31 w1557217347
+Z32 w1557253084
 R3
 R4
 R5
-Z32 8D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
-Z33 FD:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
+Z33 8D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
+Z34 FD:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd
 l0
 L4
 V0d0=do1NRz8ZTd3UIZh5Y0
 !s100 iNhJfCRDlC?F=UQ49JoEi3
 R8
 32
-R19
+R18
 !i10b 1
-R20
-Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
-Z35 !s107 D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
+R19
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
+Z36 !s107 D:\Dokumenty\DSE\git\FD\TestbenchCounter.vhd|
 !i113 1
 R13
 R14
@@ -181,36 +224,75 @@ R4
 DEx4 work 10 tb_counter 0 22 0d0=do1NRz8ZTd3UIZh5Y0
 l18
 L7
-VXXJX;_?9AYIJe1c1Zc<e31
-!s100 ^n09Eif^j6eRMbz5c7@WI2
+VIE=YDk1[Y4C_IN7^f_[o=2
+!s100 1<mL9`d];@ZKQOg0JbGe_0
 R8
 32
-R19
+R18
 !i10b 1
-R20
-R34
+R19
 R35
+R36
+!i113 1
+R13
+R14
+Etb_counter2
+Z37 w1557252030
+R3
+R4
+R5
+Z38 8D:\Dokumenty\DSE\git\FD\TestbenchCounter2.vhd
+Z39 FD:\Dokumenty\DSE\git\FD\TestbenchCounter2.vhd
+l0
+L4
+VJc_RHeS2DVTe5@`B6=3[C0
+!s100 F`T;@ogFAL7?@?P[La`h;3
+R8
+32
+R18
+!i10b 1
+R19
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\TestbenchCounter2.vhd|
+Z41 !s107 D:\Dokumenty\DSE\git\FD\TestbenchCounter2.vhd|
+!i113 1
+R13
+R14
+Abehaviour
+R3
+R4
+Z42 DEx4 work 11 tb_counter2 0 22 Jc_RHeS2DVTe5@`B6=3[C0
+l19
+L7
+Z43 Vmk3b=YKg2MIMcG3cm1MBc1
+Z44 !s100 7D22;GO^doUnYd36lEg;U3
+R8
+32
+R18
+!i10b 1
+R19
+R40
+R41
 !i113 1
 R13
 R14
 Etb_counters
-Z36 w1557174628
+Z45 w1557174628
 R3
 R4
 R5
-R32
 R33
+R34
 l0
 L4
 VZLIieZd<Xb8<8Wh^HhMPg3
 !s100 Z`=LhU6IFFkj;oo_UoRjo2
 R8
 32
-Z37 !s110 1557215025
+Z46 !s110 1557215025
 !i10b 1
-Z38 !s108 1557215025.000000
-R34
+Z47 !s108 1557215025.000000
 R35
+R36
 !i113 1
 R13
 R14
@@ -224,32 +306,32 @@ VcH3><0jH3@6]bdPbHzDaA2
 !s100 kLGDNNQ;E;b68RYj7l[6[3
 R8
 32
-R37
+R46
 !i10b 1
-R38
-R34
+R47
 R35
+R36
 !i113 1
 R13
 R14
 Etestbench
-Z39 w1557217575
+Z48 w1557217575
 R3
 R4
 R5
-Z40 8D:\Dokumenty\DSE\git\FD\Testbench.vhd
-Z41 FD:\Dokumenty\DSE\git\FD\Testbench.vhd
+Z49 8D:/Dokumenty/DSE/git/FD/Testbench.vhd
+Z50 FD:/Dokumenty/DSE/git/FD/Testbench.vhd
 l0
 L4
 VTz<lFEBj;MPEg:0H>b1Do1
 !s100 zV?DSKOdjRnaRgmTS>F@00
 R8
 32
-R19
+R18
 !i10b 1
-R10
-Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\git\FD\Testbench.vhd|
-Z43 !s107 D:\Dokumenty\DSE\git\FD\Testbench.vhd|
+R19
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/git/FD/Testbench.vhd|
+Z52 !s107 D:/Dokumenty/DSE/git/FD/Testbench.vhd|
 !i113 1
 R13
 R14
@@ -263,11 +345,11 @@ VR]P0aaXa?KL508@M0Ef:U3
 !s100 n`ZGI[`2IIW9gGOH7X^n_0
 R8
 32
-R19
+R18
 !i10b 1
-R10
-R42
-R43
+R19
+R51
+R52
 !i113 1
 R13
 R14

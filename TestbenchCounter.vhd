@@ -27,6 +27,14 @@ begin
 	wait for 10 ns;
 end process;
 
+process
+begin
+	tclk <= '0';
+	wait for 10 ns;
+	tclk <= '1';
+	wait for 10 ns;
+end process;
+
 
 process
 begin        

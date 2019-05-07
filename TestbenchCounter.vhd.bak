@@ -30,10 +30,11 @@ end process;
 
 process
 begin        
+	wait for 20 ns;
 	treset <= '1';
 	wait for 20 ns;    
 	treset <= '0';
-	wait for 160 ns;
+	wait for 180 ns;
 	treset <='1';
 	wait for 10 ns;
 end process;
