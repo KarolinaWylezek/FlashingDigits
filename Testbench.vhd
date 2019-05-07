@@ -17,9 +17,9 @@ signal reset,clk: std_logic;
 signal count:std_logic_vector(6 downto 0);
 
 begin
-dut: flashingDigits port map (CLOCK_50 => clk, resetting=>reset, HEX0 => count);
-   -- Clock process definitions
-clock_process :process
+FD: flashingDigits port map (CLOCK_50 => clk, resetting=>reset, HEX0 => count);
+ 
+process
 begin
      clk <= '0';
      wait for 10 ns;
@@ -27,14 +27,15 @@ begin
      wait for 10 ns;
 end process;
 
-
--- Stimulus process
-stim_proc: process
+process
 begin        
-   -- hold reset state for 100 ns.
-     reset <= '1';
-   wait for 20 ns;    
-    reset <= '0';
-   wait;
+	wait for 20 ns;    
+	reset <= '1';
+	wait for 20 ns;    
+	reset <= '0';
+	wait for 180 ns;
+	reset <='1';
+	wait for 10 ns;
+
 end process;
 end behaviour;
