@@ -14,7 +14,7 @@ component counter2
 end component;
 signal treset,tclk: std_logic;
 signal tenout : std_logic;
---signal tcount:std_logic_vector(22 downto 0);
+
 
 begin
 counter1: component counter2 
@@ -36,8 +36,5 @@ begin
 	wait for 20 ns;    
 	treset <= '0';
 	wait;
---	wait for 180 ns;
-	--treset <='1';
---	wait for 10 ns;
 end process;
 end behaviour;

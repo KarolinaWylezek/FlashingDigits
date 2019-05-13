@@ -6,7 +6,7 @@ end tb_counter2;
 
 architecture behaviour of tb_counter2 is
 
-component counter 
+component counter2 
     Port ( clk: in std_logic; 
            reset: in std_logic; 
            enout : out std_logic
@@ -17,7 +17,7 @@ signal tenout : std_logic;
 --signal tcount:std_logic_vector(22 downto 0);
 
 begin
-counter1: component counter 
+counter1: component counter2 
 port map (clk => tclk, reset=>treset, enout => tenout);
 
 process
